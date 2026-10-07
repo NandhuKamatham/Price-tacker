@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+sqlalchemy==2.0.29
+apscheduler==3.10.4
+python-dotenv==1.0.1
+plotly==5.20.0
+fake-useragent==1.5.1
